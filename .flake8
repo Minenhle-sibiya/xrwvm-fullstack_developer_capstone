@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 120
+ignore = E501, E231, E122, E131, W291, W293, W391, E101, W191
+exclude = djangoenv, migrations, node_modules, build
